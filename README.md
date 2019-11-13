@@ -1,5 +1,5 @@
 # Pemograman_Mobile
-<h6><b>1. MyFirstExercise</b><br></h6>
+<b>1. MyFirstExercise</b><br>
 ![Screenshot 1](/MyFirstExercise/ss.jpeg)<br>
 <b>2. MyIntentApp</b><br>
 ![Screenshot 2](/MyIntentApp/Screensot/1.jpeg)<br>
