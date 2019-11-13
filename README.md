@@ -30,3 +30,7 @@
 ![Screenshot 8](/MyRecyclerView/2.jpeg)<br>
 <b>9. MyCardReciclerView</b><br>
 ![Screenshot 9](/MyCardRecyclerView/1.jpeg)<br>
+<b>UTS PEMOGRAMAN BERGERAK</b><br>
+![Screenshot 10](/tugas/1.jpeg)<br>
+![Screenshot 10](/tugas/2.jpeg)<br>
+![Screenshot 10](/tugas/3.jpeg)<br>
