@@ -1,6 +1,6 @@
 # Pemograman_Mobile
 <b>1. MyFirstExercise</b><br>
-![Screenshot 1](/MyFirstExercise/ss.jpeg)
+![Screenshot 1](/MyFirstExercise/ss.jpeg){:height="700px" width="400px"}
 <b>2. MyIntentApp</b><br>
 ![Screenshot 2](/MyIntentApp/Screensot/1.jpeg)<br>
 ![Screenshot 2](/MyIntentApp/Screensot/2.jpeg)<br>
