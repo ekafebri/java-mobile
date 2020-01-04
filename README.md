@@ -43,7 +43,7 @@
 ![Screenshot 12](MyBackgroundThread/s2.jfif)<br>
 <b>MYLOADER</b><br>
 ![Screenshot 13](MyLoader/s1.jfif)<br>
-![Screenshot 13](MyLoader/s3.jfif)<br>
+![Screenshot 13](MyLoader/s2.jfif)<br>
 <b>MYVIEWHOLDER</b><br>
 ![Screenshot 14](MyViewHolder/s3.jfif)<br>
 <b>MYCLASS</b><br>
