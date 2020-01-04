@@ -46,3 +46,12 @@
 ![Screenshot 11](MyLoader/s1.jfif)
 
 ![Screenshot 11](MyViewHolder/s3.jfif)
+
+![Screenshot 11](MyClass/s1.jfif)
+![Screenshot 11](MyClass/s2.jfif)
+![Screenshot 11](MyClass/s3.jfif)
+![Screenshot 11](MyClass/s4.jfif)
+![Screenshot 11](MyClass/s5.jfif)
+![Screenshot 11](MyClass/s6.jfif)
+![Screenshot 11](MyClass/s7.jfif)
+![Screenshot 11](MyClass/s8.jfif)
