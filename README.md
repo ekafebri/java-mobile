@@ -38,3 +38,6 @@
 ![Screenshot 11](/MyLocalization/s1.jfif)
 ![Screenshot 11](/MyLocalization/s2.jfif)
 ![Screenshot 11](/MyLocalization/s3.jfif)
+<b>MY BACKGROUNDTREAD</b><br>
+![Screenshot 11](MyBackgroundThread/s1.jfif)
+![Screenshot 11](MyBackgroundThread/s2.jfif)
