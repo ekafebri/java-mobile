@@ -35,4 +35,6 @@
 ![Screenshot 10](/tugas/2.jpeg)<br>
 ![Screenshot 10](/tugas/3.jpeg)<br>
 <b>MY LOCALIZATION</b><br>
-![Screenshot 10](/MyLocalization/s1.jfif)
+![Screenshot 11](/MyLocalization/s1.jfif)
+![Screenshot 11](/MyLocalization/s2.jfif)
+![Screenshot 11](/MyLocalization/s3.jfif)
