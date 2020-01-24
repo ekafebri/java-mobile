@@ -35,27 +35,27 @@
 ![Screenshot 10](/tugas/2.jpeg)<br>
 ![Screenshot 10](/tugas/3.jpeg)<br>
 <b>MY LOCALIZATION</b><br>
-![Screenshot 11](/MyLocalization/s1.jfif)
-![Screenshot 11](/MyLocalization/s2.jfif)
-![Screenshot 11](/MyLocalization/s3.jfif)
+![Screenshot 11](/MyLocalization/s1.jfif)<br>
+![Screenshot 11](/MyLocalization/s2.jfif)<br>
+![Screenshot 11](/MyLocalization/s3.jfif)<br>
 <b>MYBACKGROUNDTHREAD</b><br>
-![Screenshot 11](MyBackgroundThread/s1.jfif)
-![Screenshot 11](MyBackgroundThread/s2.jfif)
+![Screenshot 12](MyBackgroundThread/s1.jfif)<br>
+![Screenshot 12](MyBackgroundThread/s2.jfif)<br>
 <b>MYLOADER</b><br>
-![Screenshot 11](MyLoader/s1.jfif)
-![Screenshot 11](MyLoader/s1.jfif)
-
-![Screenshot 11](MyViewHolder/s3.jfif)
-
-![Screenshot 11](MyClass/s1.jfif)
-![Screenshot 11](MyClass/s2.jfif)
-![Screenshot 11](MyClass/s3.jfif)
-![Screenshot 11](MyClass/s4.jfif)
-![Screenshot 11](MyClass/s5.jfif)
-![Screenshot 11](MyClass/s6.jfif)
-![Screenshot 11](MyClass/s7.jfif)
-![Screenshot 11](MyClass/s8.jfif)
-
-![Screenshot 11](DaftarBelanja/s1.jfif)
-![Screenshot 11](DaftarBelanja/s2.jfif)
-![Screenshot 11](DaftarBelanja/s3.jfif)
+![Screenshot 13](MyLoader/s1.jfif)<br>
+![Screenshot 13](MyLoader/s2.jfif)<br>
+<b>MYVIEWHOLDER</b><br>
+![Screenshot 14](MyViewHolder/s3.jfif)<br>
+<b>MYCLASS</b><br>
+![Screenshot 15](MyClass/s1.jfif)<br>
+![Screenshot 15](MyClass/s2.jfif)<br>
+![Screenshot 15](MyClass/s3.jfif)<br>
+![Screenshot 15](MyClass/s4.jfif)<br>
+![Screenshot 15](MyClass/s5.jfif)<br>
+![Screenshot 15](MyClass/s6.jfif)<br>
+![Screenshot 15](MyClass/s7.jfif)<br>
+![Screenshot 15](MyClass/s8.jfif)<br>
+<b>DAFTARBELANjA</b><br>
+![Screenshot 16](DaftarBelanja/s1.jfif)<br>
+![Screenshot 16](DaftarBelanja/s2.jfif)<br>
+![Screenshot 16](DaftarBelanja/s3.jfif)<br>
