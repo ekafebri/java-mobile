@@ -59,5 +59,5 @@
 ![Screenshot 16](DaftarBelanja/s1.jfif)<br>
 ![Screenshot 16](DaftarBelanja/s2.jfif)<br>
 ![Screenshot 16](DaftarBelanja/s3.jfif)<br>
-![Screenshot 16](DaftarBelanja/s4.jpeg)<br>
-![Screenshot 16](DaftarBelanja/s5.jpeg)<br>
+![Screenshot 16](DaftarBelanja/s4.jpg)<br>
+![Screenshot 16](DaftarBelanja/s5.jpg)<br>
